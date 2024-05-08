@@ -1,6 +1,6 @@
 # [@brtmvdl/flow](https://www.npmjs.com/package/@brtmvdl/flow)
 
-Easy flow Javascript library
+Easy Flow Javascript library
 
 ## social & donate
 
