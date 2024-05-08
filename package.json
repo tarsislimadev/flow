@@ -1,0 +1,11 @@
+{
+  "name": "@brtmvdl/flow",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "description": "Easy Flow Javascript library",
+  "url": "https://github.com/brtmvdl/flow/issues",
+  "funding": "https://link.mercadopago.com.br/brtmvdl",
+  "author": "Tarsis Lima (https://github.com/brtmvdl)",
+  "repository": "github:brtmvdl/flow",
+  "license": "MIT"
+}
